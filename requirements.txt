@@ -1,0 +1,13 @@
+numpy>=1.22
+scipy
+librosa
+soundfile
+pydub
+tqdm
+transformers>=4.30
+torch
+python-dotenv
+jiwer
+nltk
+textblob
+openai  # optional, only if using OpenAI for shark feedback
